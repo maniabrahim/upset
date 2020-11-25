@@ -1,0 +1,10 @@
+{
+	"file": "https://raw.githubusercontent.com/maniabrahim/upset/main/data.csv",
+	"name": "count rnaseq-- brahim mania",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 6 }
+	]
+}
