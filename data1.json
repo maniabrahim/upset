@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/maniabrahim/upset/main/data.csv",
+	"name": "RnaSeq -- brahim mania",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "geneid" }
+		
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8 }
+	]
+}
